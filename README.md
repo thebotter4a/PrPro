@@ -3,4 +3,4 @@
 
 ---
 
-![FL Studio Icon](https://www.image-line.com/innovaeditor/assets/FLStudio20_MasterIcon.png)
+![Premiere Pro Icon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png)
